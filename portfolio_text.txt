@@ -1,0 +1,1140 @@
+Sumonta Ghosh
+
+Hi There, I’m
+
+Sumonta Ghosh
+Researcher || Textile Engineer
+
+M.Sc. in Textile Engineering
+
+Donghua University (DHU), Shanghai, China.
+
+B.Sc. in Textile Engineering
+University of Dhaka (DU), Dhaka, Bangladesh.
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+I am a dedicated researcher and textile engineer, committed to applying my skills and knowledge
+to solving real-world problems through innovative material and system design. With an M.Sc. in
+Textile Engineering from Donghua University and a B.Sc. in Textile Engineering from Dhaka
+University, my educational background provides a strong foundation in the fields of textile
+science, materials, and advanced manufacturing.
+In addition to my educational and research background, I have several years of industry and
+leadership experience in apparel merchandising and product development, where I have led
+teams, collaborated with global brands, and managed end-to-end project implementation.
+My research focuses on smart textiles, wearable electronic textiles, textile-based sensors, and
+functional textiles, along with integrating the Internet of Things (IoT), artificial intelligence (AI),
+and functional and structural composites. In these areas, I work to transform traditional
+materials and systems into intelligent, responsive platforms that enable sensing, communication,
+and actuation for applications in healthcare, human-technology interaction, and advanced
+engineering products. This interdisciplinary profile enables me to make meaningful
+contributions to projects in textiles, materials science, electronics, data-driven systems, and the
+broader engineering disciplines.
+Beyond research, I am highly motivated to engage in interdisciplinary collaborations and
+innovation-driven projects that connect academia and industry. I am actively seeking
+opportunities such as PhD positions, collaborative research, and industry partnerships to
+develop technologies that have a positive impact on society. For any inquiries or potential
+initiatives, I welcome you to reach out and connect.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+2022-2025
+M.Sc. in Textile Engineering
+
+College of Textiles, Donghua University (DHU),
+Shanghai, China.
+
+2014-2019
+B.Sc. in Textile Engineering
+
+National Institute of Textile Engineering and
+Research (NITER), University of Dhaka (DU),
+Dhaka, Bangladesh.
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+2011-2013
+Higher Secondary Certificate, Science Group
+
+Khan Bahadur Ahsanulla
+Khulna, Bangladesh.
+
+2009-2011
+Secondary School Certificate, Science Group
+Nalta High School, Satkhira, Khulna, Bangladesh.
+
+College,
+
+Satkhira,
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Research Interest
+◆ Smart Textiles
+◆ Wearable E-Textiles
+◆ Textile-based Sensors
+
+◆ Functional Textiles
+◆ Internet of Things (IoT)
+◆ Artificial Intelligence (AI)
+◆ Functional and Structural Composites
+◆ Natural Dying
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Academic Thesis
+1. M.Sc. Degree Thesis Title: Development of Electronic Hybrid Yarns for Temperature Sensing and Their Integration into
+Smart Sock Prototypes.
+2. B.Sc. Degree Thesis Title: Development of Time Saving Approaches to Reduce Stress in Apparel Merchandising Jobs in
+Bangladesh Textile Division.
+
+Sumonta Ghosh
+
+Research
+Home Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+The structure design of the smart sock prototype integrated with stretchable hybrid electronic
+temperature sensing yarn for real-time temperature monitoring
+Pervasive and Mobile Computing, Volume 116, March 2026, 102136
+Online Link: https://doi.org/10.1016/j.pmcj.2025.102136
+
+Rapid advances in electronic textiles have enabled the development of smart socks with temperature-sensing capabilities for real-time foot temperature monitoring, where
+stretchability, user comfort, durability, bending, washability, sensing location error during wear, and higher manufacturing cost are drawbacks. This study introduces a smart
+sock prototype that integrates highly stretchable hybrid electronic temperature-sensing (SHETS) yarns in key physiological foot regions—hallux, metatarsal, midfoot, and
+heel—to detect temperature variations and address the challenges of exciting and commercial products. Structural design of SHETS yarns involved wrapping, novel
+interconnection, encapsulation, and braiding techniques to integrate miniature thermistor within the yarn structure, showing high stretchability, durability, washability, and
+sensing accuracy. Low-power microcontroller transmits analog data to a digital format, and the web-based interface enables users to monitor data through mobile phone
+applications in real-time. The prototype demonstrates high accuracy, durability, and reliability under various conditions, with average temperature error ranging from
+±0.23˚C to ±0.27˚C. The prototype maintains durability and stability in hot, cold, and sweaty conditions. Physical activities like walking, running, and cycling demonstrate the
+durability and stability of foot temperature changes, while extended wear shows low power consumption and stability. The device withstands over 30 washing cycles with
+minimal accuracy loss (maximum ±0.28˚C error) and retains the mechanical and electrical properties of SHETS yarn under repeated stretching and bending. Additionally, the
+android-based intelligent foot alert system enhances usability by providing real-time monitoring and alerts on smartphones, offering a cost-effective, energy-efficient, and userfriendly solution for proactive foot health management. Available code: https://github.com/Sumonta-e-textile/Smart-Materials-and-Electronic-Textiles-Lab.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Development of Durable and Stretchable Hybrid Electronic Yarns for Temperature
+Measurement: Sensing and Mechanical Performance
+Journal of Electronic Materials, Volume 54, pages 9744–9770, (2025), 07 August 2025
+Online Link: https://link.springer.com/article/10.1007/s11664-025-12202-0
+
+The development of durable and stretchable hybrid electronic yarn for precise temperature measurement in wearable textiles faces challenges such as
+interconnection breakage, limited extensibility, and low mechanical stability. This study presents the development of durable, stretchable hybrid electronic
+yarns (e-yarns) for accurate body temperature measurement in wearable textiles. This hybrid e-yarn comprises a pair of enamel copper wires wrapped
+around a spandex core, interconnected to a surface-mounted negative temperature coefficient thermistor electronic component. A customized design of a
+novel polytetrafluoroethylene mold-enabled interconnection technique ensures precise alignment and robust soldering. Preliminary and final encapsulation
+techniques were used to increase the mechanical stability of the sensing yarn. Ultraviolet (UV) polyurethane acrylate (PUA), UV acrylic resin adhesives with
+two diameters, and a polyethylene heat-shrink tube cured by UV and heat were used to evaluate the temperature-sensing performance of the yarn. A tubular
+braiding structure with nylon threads further improved mechanical durability and textile-like properties. The results demonstrate that PUA encapsulation
+with a small diameter is advantageous for achieving good temperature-sensing performance, with sensitivity of 2.961%/°C within a temperature range of 28–
+45°C. Preliminary PUA encapsulation within a tubular braided structure demonstrated optimal sensing accuracy (± 0.65% error), sensitivity of 2.9493%/°C,
+a hysteresis error of 2.214%, and response times of 6.4272 s (heating) and 26.2955 s (cooling). This structure achieved ideal equilibrium between precise
+temperature-sensing accuracy and durable and stable functionality in tensile, bending, washing and drying, and textile-like properties, which are crucial for
+monitoring human health.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Insertion of miniature electronic components into textile yarn structure for temperature
+detection, sensing, and mechanical performance
+Journal of Donghua University (English Edition)
+Online Link:
+
+The growing popularity of electronic textiles demands the insertion of miniature electronic components into textile yarns, where proper placement, short
+circuits, broken interconnects, and insufficient mechanical performance are significant limitations. To accurately measure temperature and overcome these
+limitations, an electronic hybrid temperature-sensing (EHTS) yarn has been developed. An electronic thread is wrapped around a polyester core yarn. A
+novel interconnection technique for accurately soldering surface mount device (SMD) components, i.e., negative temperature coefficient (NTC) thermistors,
+in the middle position of electronic threads effectively resolves issues related to improper component placement, short circuits, and broken interconnects. An
+ultraviolet (UV) cured encapsulation process using polyurethane acrylate (PUA) UV-cured adhesive is employed to enhance the structural integrity of the
+interconnect area. Similarly, using a two-component epoxy resin, a natural curing process encapsulates the soldering position. Moreover, a tubular braiding
+structure is employed to create a textile-like texture and improve the yarn's durability against use, laundering, and external factors. Sensing and mechanical
+performance are evaluated for all the preparation states of the samples. The results demonstrated that the unique structure of soldering with encapsulated
+PUA adhesives within a braided configuration significantly enhances temperature sensing performance, exhibiting a sensitivity of 2.9482%/°C, rapid curing
+speed, superior encapsulation structure, and overall cost efficiency compared with natural curing. This structure also demonstrates stable mechanical
+performance, like electrical resistance and temperature changes under different loads, bending, twisting, washing, and drying conditions, making it
+appropriate for accurate temperature sensing and long-lasting, textile-like qualities, which are critical for human health monitoring.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Design and evaluation of core–shell yarn-based triboelectric sensing fabric for human motion
+monitoring
+Journal of Materials Science: Materials in Electronics, Volume 36, article number 220, (2025), 28 January 2025
+Online Link: https://link.springer.com/article/10.1007/s10854-025-14228-w
+
+Pressure sensor textiles are essential for smart textile development, but their creation is challenging due to cost and sensitivity requirements. This study
+introduced a comparative analysis of the effectiveness of single triboelectric mode (STEM) versus double triboelectric modes (DTEM) sensing woven fabric
+using core–shell yarn with nylon and polytetrafluoroethylene (PTFE) filaments. It explores three modes of triboelectric technology: (STEM) using a plain
+weave pattern, (DTEM) utilizing two instances of the same plain weave pattern, and (DTEM) combining plain and twill weave patterns to improve
+performance outcomes. The triboelectric fabric with plain structures (STEM) shows an initial output of 0.80 nA, rising to 1.50 nA when connected with two
+plain structures. Incorporating one plain structure and one twill structure woven fabric (DTEM) further boosts the output to 1.80 nA. Notably, (DTEM)
+achieves 0.80 nA and 1.50 nA outputs at 1 Hz and 2 Hz, respectively, with the highest output of 2.00 nA at 3 Hz. The sensor fabric demonstrates sensitivities
+of 0.269 V/kPa−1 and 0.013 V/kPa−1 across pressure ranges from 0.22 to 0.44 kPa and 0.47 to 0.74 kPa. The adaptable, flexible, and lightweight apparatus
+effectively tracks dynamic movements in human joints, spanning the knee, underarm, elbow, and hand, showcasing promise for multifunctional self-powered
+pressure sensor textiles in smart textile applications.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Multifunctional W-TENG fabric sensor for comprehensive human motion monitoring:
+integration of pressure, temperature and tension sensing
+Journal of Materials Science, Volume 60, pages 19030–19048, (2025), 24 September 2025
+Online Link: https://link.springer.com/article/10.1007/s10853-025-11044-9
+
+Smart multifunctional wearable products are rapidly influencing consumer electronics market and provide innovative performance for various uses but
+remain hindered by reliance on rechargeable batteries with limited lifespans and low energy storage. We addressed these challenges by developing a wovenstructured triboelectric nanogenerator (W-TENG) using commercially available nylon and polyester fabrics. Coated with carbon black and carbon nanotube
+pastes containing sodium alginate, the fabrics demonstrated enhanced triboelectric performance while maintaining flexibility, breathability, and washability.
+The freestanding triboelectric layer enabled electricity generation under various mechanical motions, making W-TENG highly compatible with wearable
+devices. In testing, W-TENG achieved a peak current of 4 μA at 3 Hz using carbon black-coated fabrics, outperforming other configurations. Temperature
+sensitivity tests showed a rise in current output from 0.002 μA at 25 °C to 0.023 μA at 45 °C, confirming its thermal efficiency. Tensile strain sensing tests
+revealed that electrical output increased from 0.9 μA at 15% strain to 8 μA at 30% strain, showcasing its responsiveness to mechanical deformation. Motion
+sensing trials using hands and elbows demonstrated a maximum current of 10.3 μA under slow movements. These results highlight W-TENG’s potential as a
+self-powered, cost-effective solution for wearable electronics, enabling real-time energy harvesting and multifunctional sensing. This work paves the way for
+sustainable, energy-autonomous smart textiles.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Gain enhancement through structural optimization of 100% textile-based microstrip
+patch antennas for wearable applications at 2.45 GHz
+Textile Research Journal, May 7, 2025
+Online Link: https://journals.sagepub.com/doi/abs/10.1177/00405175251316319
+
+This study enhances the gain of fabric-based wearable patch antennas at 2.45 GHz, crucial for improving wireless body area networks (WBANs)
+used in health monitoring and fitness tracking. Unlike conventional antennas, which rely on high-conductivity metals and rigid substrates such as
+flame retardant 4 (FR4) or printed circuit board (PCB), this study utilizes 100% textile materials, including denim as the substrate and diamond
+lattice conductive fabric (DLCF) as the radiating element, offering flexibility and low-cost manufacturing due to its commercially availability.
+Simulations demonstrated that increasing substrate thickness significantly improved gain, achieving up to 4.58 dB. Experimental validation with a
+100% cotton-based substrate showed gains of 0.03, 2.18, and 3.82 dB for thickness increases of 1, 3, and 5 times, respectively. Despite the lower
+conductivity of textile materials, the optimized antenna structure exhibited performance comparable to conventional antennas. This work highlights
+the potential for fully textile-based, high-gain antennas that are both flexible and cost-effective, making them viable for scalable wearable
+applications.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Eco-friendly Sustainable Dyeing of Lycra Viscose Fabric with Allium sativum Using Natural
+and Metal Mordants
+Fibers and Polymers, Volume 25, pages 3887–3900, (2024), 18 September 2024
+Online Link: https://link.springer.com/article/10.1007/s12221-024-00710-5
+
+Due to its many practical advantages and positive effects on the environment, sustainable dyeing using natural substances has drawn increased attention.
+Based on the sustainability of the extraction of natural dyestuff from garlic (Allium sativum), the coloration of lycra viscose fabric was investigated; the ideal
+dye extraction conditions were as follows: an M:L ratio of 1:3, a temperature of 80 °C, and a duration of 30 min. For viscose fabric, several dyeing processes
+were performed utilizing natural mordants, such as orange peel and lemon peel, as well as commonly used tannic acid, copper sulfate, and ferrous sulfate
+with various mordanting ratios. In the entire experiment, for the first time, only one type of mordanting procedure (pre-mordanting) was used to determine
+the optimal outcomes of the mordants and to provide a comparison of their performances. The results revealed that viscose fabric dyeing using a premordanting method with 5% orange peel as a natural mordant exhibited improved performance and higher outcomes than the other mordants. Different
+measurement techniques were used to determine the CIELab outputs, and a color strength (K/S) attribute experiment was used to determine the optimal
+value. The results from the FTIR study verified that the colored particles interacted with the viscose fabric. In addition, the results from the SEM analysis
+confirmed the ability of the dye to absorb into the viscose fabric surface. The elemental mapping and EDX spectra also confirmed the presence of the dye
+particles on the surface of the dyed fabric. In addition, the color-fastness characteristics had satisfactory fastness ratings of 4–5 for rubbing, 4–5 for washing,
+and 4–5 for light performance with the metal mordants. To address the actual need for viscose fabric coloration and function in clothing manufacturing,
+garlic (Allium sativum) dyeing of viscose fabric is a very promising alternative option to synthetic dyestuff.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Original Research Article
+
+Analysis of Various Types Engineering Stripe Knit Fabrics of Bangladeshi Knit
+Industry
+Journal of Textile Science and Technology, Vol.7 No.4, November 2021
+Online Link: https://www.scirp.org/journal/paperinformation?paperid=112990
+
+This experiment is generally based on the three types of engineering stripe fabrics named single jersey, full feeder lycra single jersey, and single
+lacoste fabric. In Bangladesh, conventional practices of engineering stripe fabric hardly seen. As the textile engineer, we focused to identify the basic
+difference between these fabrics. We kept the repeat length constant for all three fabrics. In these circumstances, how stitch length, yarn count, gsm,
+fabric dia, machine settings, machine maintenance, machine rpm varies into those three mentioned fabrics. It is the main motto of these experiments
+to make them more favourable into the trendy fashion world.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Book Chapter
+
+Mechanical and Thermal Properties of Synthetic/Synthetic Fibers in Hybrid Non-woven Fabric
+Thermoplastic Composites
+Innovations in Woven and Non-woven Fabrics Based Laminated Composites, Composites Science and Technology, Springer, 17 December 2024, pp 213–233.
+Online Link: https://link.springer.com/chapter/10.1007/978-981-97-7937-6_9
+
+This chapter focuses on the mechanical and thermal properties of synthetic fibers in hybrid non-woven fabric polymeric composites. In the nonwoven
+industry, synthetic fibers are extensively utilized, with natural fibers playing a lesser role due to impurities and higher costs. The production of nonwovens
+involves arranging small fibers in sheets or webs, which are then bound together using mechanical or thermal techniques. The most commonly used synthetic
+fibers in this industry are polyester (PET), polypropylene (PP), polyethylene (PE), as well as specialty fibers such as glass and carbon. PET nonwoven fabric
+exhibits exceptional mechanical strength and can withstand high temperatures without degradation. Non-woven polypropylene fabric is held together
+through the mechanical, thermal, and chemical entanglement of fibers, resulting in a resilient and long-lasting material. The current invention focuses on
+polyethylene nonwoven fabric made of fine fibers with a small diameter, which exhibits excellent formation properties and finds applications in sanitary and
+household items. Fiberglass nonwoven fabric is a soft and resilient material composed of fine glass fibers. Carbon fibers offer advantageous qualities
+including good thermal and electrical conductivities, excellent creep resistance, low density, high thermal stability in the absence of oxidizing agents, and
+exceptional tensile strength. To conclude, this chapter provides insights into the mechanical and thermal properties of synthetic fibers used in hybrid nonwoven fabric polymeric composites. Additionally, it presents an overview of the diverse applications of these fibers in the nonwoven industry, further
+highlighting their significance and utility.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Book Chapter
+
+Mechanical and Thermal Properties of Plant/Synthetic Fibers in Hybrid Woven/Non-woven
+Fabric Polymeric Laminates
+Innovations in Woven and Non-woven Fabrics Based Laminated Composites, Composites Science and Technology, Springer, 17 December 2024, pp 235–255.
+Online Link: https://link.springer.com/chapter/10.1007/978-981-97-7937-6_10
+
+The objective of this chapter is to comprehensively explore the mechanical and thermal properties of hybrid woven/non-woven fabric polymeric laminates
+containing plant and synthetic fibers. Fabric-based laminated composites find wide application in industries such as automotive, transportation, defense,
+and structural building due to their desirable characteristics of low cost, lightweight, and good strength. In particular, the versatility of laminating materials
+allows for the use of various fabric structures, including woven, nonwoven, and knit, in composite production. Among these options, hybrid composites
+combining synthetic and natural fibers have gained significant attention for their adaptable tensile and impact characteristics, making them suitable for
+construction purposes. Moreover, the availability of fabric components makes the production of laminated hybrids practical and cost-effective. However, a
+comprehensive understanding of the effects of factors such as fiber type, origin, content, and polymeric matrix on the properties of fabric composites is still
+lacking. In this chapter, we discuss the thermo-mechanical performances of plant/synthetic polymeric woven/nonwoven laminates. Additionally, we explore
+the potential applications of these laminated composites, based on limited experimental findings available. Through this analysis, we aim to provide
+conclusive insights into the mechanical and thermal behavior of hybrid fabric polymeric laminates and their suitability for various applications.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+Publications
+Article Type: Book Chapter
+
+Fire Resistance and Safety Aspects of High-Performance Composites
+Fire Resistance and Safety Aspects of High-Performance Composites, Elsevier. Expected publication date: Jan 2026.
+
+Online Link:
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+Publications
+Article Type: Book Chapter
+
+Membrane Filtration Processes for Vegetable Oil Wastewater Treatment
+Advanced Technologies in Wastewater Treatment: Vegetable Oils, Elsevier. Expected publication date: Aug 2026.
+
+Online Link:
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Publications
+Article Type: Book Chapter
+
+A study on the various standards available for testing friction composites: An overview
+Advanced Friction Composites for Braking Systems, Elsevier. Expected publication date: Apr 2027.
+
+Online Link:
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+Publications
+Article Type: Book Chapter
+
+Fire Safety and Retardancy of Natural Fiber Composites in Construction
+Natural Fiber Composites for Sustainable Construction, Elsevier. Expected publication date: Jul 2027.
+
+Online Link:
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+“Invisible Guardian” – Multi-modal
+Health-Monitoring Smart Socks
+March 2025 - Continue
+
+Vanue: Shanghai Frontiers Science Center of
+Advanced Textiles, College of Textiles, Donghua
+University, 201620, Shanghai, China.
+
+Funding: The Natural Science Foundation of
+Shanghai(Grant No. 22ZR1400800).
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Textile Based Temperature Sensors
+and Their Integration into Socks for
+Real-time Health Monitoring
+September 2023 - June 2025
+
+Vanue: Shanghai Frontiers Science Center of
+Advanced Textiles, College of Textiles, Donghua
+University, 201620, Shanghai, China.
+Funding: The Natural Science Foundation of
+Shanghai(Grant No. 22ZR1400800), and The
+Science and Technology Bureau of Jiaxing City
+(2025CGZ070).
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Research Experience
+September 2022- continue
+Graduate Research Assistant
+Shanghai Frontiers Science Center of Advanced Textiles,
+College of Textiles, Donghua University, 201620,
+Shanghai, China.
+
+February 2015- November 2018
+Research Assistant
+The Center for Research and Industrial Relations
+(CRIR), National Institute of Textile Engineering and
+Research (NITER), Dhaka, Bangladesh.
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Professional/Leadership Experience
+March 2022- September 2022
+Apparel Merchandiser and Team Leader (R&D, Outerwear
+products)
+Croydon Kowloon Designs Ltd, Dhaka, Bangladesh.
+
+March 2022- September 2020
+Asst. Merchandiser (R&D, Production, Outerwear products)
+Debonair Group, Dhaka, Bangladesh.
+
+December 2018-February 2020
+Internship, and Jr. Executive (R&D, Woven and Knit products)
+Bangladesh
+Bangladesh
+
+Export
+
+Import
+
+Company
+
+Limited,
+
+Dhaka,
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Personal Skills
+
+◆ Communication skills
+◆ Critical thinking and problem-solving
+◆ Time management and organization
+
+◆ Self-motivation and independence
+◆ Collaboration and teamwork
+◆ Leadership and project management
+◆ Data analysis and attention to detail
+◆ Public speaking and presentation skills
+◆ Adaptability and resilience
+◆ Research ethics and integrity
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Language Skills
+
+◆ English (Professional Proficiency)
+◆ Bengali (Mother Tongue)
+◆ Chinese (Basic)
+◆ Hindi (Conversational)
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Software Skills
+
+◆ 3DS Max
+
+◆ COMSOL Multiphysics
+◆ Keysight DAQ
+◆ Proteus
+◆ Arduino IDE
+◆ Flutter
+
+◆ Origin Pro
+◆ Microsoft Office
+◆ Adobe Photoshop and Illustrator
+◆ Emailing
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Instrument and Equipment Analysis
+Skills
+◆
+
+Scanning Electronic Microscope
+
+◆
+
+Atomic Force Microscope
+
+◆
+
+Fluorescence Microscope
+
+◆
+
+Polarizing Microscope
+
+◆
+
+Fourier Transform Infrared Spectrometer
+
+◆
+
+Fluorescence Spectrometer
+
+◆
+
+Universal Testing Machine
+
+◆
+
+Tensile Strength Tester
+
+◆
+
+Dynamic Mechanical Thermal Analyzer
+
+◆
+
+Micro Blending Machine
+
+◆
+
+Micro Injection Machine
+
+◆
+
+Differential Scanning Calorimeter
+
+◆
+
+Thermogravimetric Analyzer
+
+◆
+
+Dynamic Mechanical Thermal Analyzer
+
+◆
+
+Fully-automatic Contact Angle Goniometer
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Favorite Books
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Favorite Movies
+
+Projects
+
+Research
+and Professional
+Experience
+
+About
+me
+
+Contact
+
+Sumonta Ghosh
+
+Home
+
+Research
+Education and Publications
+
+Projects
+
+Research
+and Professional
+Experience
+
+Contact me
+
+-- Have a PhD, project or job opportunity? Feel free to contact me -Get in touch with me
+I am actively seeking opportunities such as PhD positions, and collaborative research. If you feel that my
+educational background, research experience, and skills match your team’s needs, I would be happy to connect.
+
+Phone: +86-13122825582 (China);
++88-01744493687 (Bangladesh)
+WeChat: Sumon7211
+
+WhatsApp: +88-01744493687
+Email: sumontaghosh7211@gmail.com; 322004@mail.dhu.edu.cn
+
+Important Links for Contact:
+
+About
+me
+
+Contact
+
+
